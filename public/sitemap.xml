@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>https://tangentspacepodcast.com/post/2017-05-26-episode_01_prometheus/</loc>
+    <lastmod>2017-05-26T16:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tangentspacepodcast.com/post/2017-05-26-welcome/</loc>
+    <lastmod>2017-05-26T15:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tangentspacepodcast.com/page/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://tangentspacepodcast.com/tags/announcement/</loc>
+    <lastmod>2017-05-26T15:00:00-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://tangentspacepodcast.com/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://tangentspacepodcast.com/tags/episode/</loc>
+    <lastmod>2017-05-26T16:00:00-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://tangentspacepodcast.com/tags/movie/</loc>
+    <lastmod>2017-05-26T16:00:00-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://tangentspacepodcast.com/page/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://tangentspacepodcast.com/post/</loc>
+    <lastmod>2017-05-26T16:00:00-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://tangentspacepodcast.com/tags/sci-fi/</loc>
+    <lastmod>2017-05-26T16:00:00-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://tangentspacepodcast.com/tags/</loc>
+    <lastmod>2017-05-26T15:00:00-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://tangentspacepodcast.com/</loc>
+    <lastmod>2017-05-26T16:00:00-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

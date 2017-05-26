@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on The Tangent Space</title>
+    <link>https://tangentspacepodcast.com/post/</link>
+    <description>Recent content in Posts on The Tangent Space</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>tangentspace@protonmail.com (Brandon Anderson and John Kehayias)</managingEditor>
+    <webMaster>tangentspace@protonmail.com (Brandon Anderson and John Kehayias)</webMaster>
+    <lastBuildDate>Fri, 26 May 2017 16:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="https://tangentspacepodcast.com/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Episode 1: Prometheus</title>
+      <link>https://tangentspacepodcast.com/post/2017-05-26-episode_01_prometheus/</link>
+      <pubDate>Fri, 26 May 2017 16:00:00 -0400</pubDate>
+      <author>tangentspace@protonmail.com (Brandon Anderson and John Kehayias)</author>
+      <guid>https://tangentspacepodcast.com/post/2017-05-26-episode_01_prometheus/</guid>
+      <description>This is the very first episode of Tangent Space! Brandon and John discuss the 2012 Ridley Scott film Prometheus ahead of the sequel out now, Alien: Covenant. One liked it, one hated it, and they dive into theories to interpret the movie.
+ Intro and outro music is courtesy of Brandon Anderson, who also did all the mixing and producing of this episode.</description>
+    </item>
+    
+    <item>
+      <title>Welcome!</title>
+      <link>https://tangentspacepodcast.com/post/2017-05-26-welcome/</link>
+      <pubDate>Fri, 26 May 2017 15:00:00 -0400</pubDate>
+      <author>tangentspace@protonmail.com (Brandon Anderson and John Kehayias)</author>
+      <guid>https://tangentspacepodcast.com/post/2017-05-26-welcome/</guid>
+      <description>&lt;p&gt;Hello and welcome to our (Brandon and John&amp;rsquo;s) brand new podcast! This is the official website for everything Tangent Space. In addition to posting each episode here, we will also put up some extras, announcements, and occasional blog posts related to the podcast. You can read a little bit about us on the &lt;a href=&#34;https://tangentspacepodcast.com/page/about/&#34;&gt;About page&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

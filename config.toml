@@ -1,4 +1,4 @@
-baseurl = "https://tangentspacepodcast.com"
+baseurl = "https://tangentspacepodcast.com/"
 DefaultContentLanguage = "en"
 title = "The Tangent Space"
 theme = "beautifulhugo"
