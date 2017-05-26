@@ -4,7 +4,11 @@ subtitle: The podcast and your hosts
 comments: false
 ---
 
+"What's the easiest way to become rich and famous?"
 
+"A podcast?"
+
+Yeah, we don't think anyone has ever said that, and clearly if our goal was fame and money we would have chosen much different life paths (replace "a podcast" with "physics" for an even more unlikely conversation). We've known each other for over 10 years, and over that time we've frequently discussed everything from physics, sci-fi, music, and writing, to our experiences living abroad and traveling around the world. With some encouragement from our friends, we decided to take our serious, silly, and wide-ranging conversations to the internet. Thanks for joining us and we hope you enjoy. As one of us said when recording our first episode, "I think we're interesting." :smile:
 
 ### Brandon Anderson
 {{< figure src="/img/brandon.jpg" title="">}}

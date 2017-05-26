@@ -13,6 +13,7 @@ disqusShortname = "tangentspace"
   logo = "img/avatar-icon.png"
   favicon = "img/favicon.ico"
   dateFormat = "January 2, 2006"
+  enableEmoji = true
   commit = false
   rss = true
   comments = true
