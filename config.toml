@@ -1,6 +1,6 @@
 baseurl = "https://tangentspacepodcast.com/"
 DefaultContentLanguage = "en"
-title = "The Tangent Space"
+title = "Tangent Space"
 theme = "beautifulhugo"
 metaDataFormat = "yaml"
 pygmentsUseClasses = true
