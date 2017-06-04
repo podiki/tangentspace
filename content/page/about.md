@@ -10,6 +10,15 @@ comments: false
 
 Yeah, we don't think anyone has ever said that, and clearly if our goal was fame and money we would have chosen much different life paths (replace "a podcast" with "physics" for an even more unlikely conversation). We've known each other for over 10 years, and over that time we've frequently discussed everything from physics, sci-fi, music, and writing, to our experiences living abroad and traveling around the world. With some encouragement from our friends, we decided to take our serious, silly, and wide-ranging conversations to the internet. Thanks for joining us and we hope you enjoy. As one of us said when recording our first episode, "I think we're interesting." :smile:
 
+Subscribe on [SoundCloud](https://soundcloud.com/tangentspace), [Stitcher](http://partners.stitcher.com/promo/140357), or [iTunes](https://itunes.apple.com/us/podcast/the-tangent-space-podcast/id1241787382). You can get in touch with us via email, [tangentspace@protonmail.com](mailto:tangentspace@protonmail.com), and Twitter, @[thetangentspace](https://twitter.com/thetangentspace).
+
+<!-- <iframe allowtransparency="true" scrolling="no" frameborder="no" src="https://w.soundcloud.com/icon/?url=http%3A%2F%2Fsoundcloud.com%2Ftangentspace&color=orange_white&size=64" style="display: inline; width: 64px; height: 64px;"></iframe> -->
+
+<!-- <a href="http://www.stitcher.com/s?fid=140357&refid=stpr"><img src="http://cloudfront.assets.stitcher.com/promo.assets/stitcher-icon-100x100.jpg" style="display: inline;" width="64" height="64" alt="Listen to Stitcher"></a> -->
+
+<!-- <a href="https://itunes.apple.com/us/podcast/the-tangent-space-podcast/id1241787382?mt=2" style="display:inline-block;overflow:hidden;background:url(//linkmaker.itunes.apple.com/assets/shared/badges/en-us/podcast-lrg.svg) no-repeat;width:200px;height:100px;background-size:contain;"></a> -->
+
+
 ### Brandon Anderson
 {{< figure src="/img/brandon.jpg" title="">}}
 
