@@ -1,0 +1,5 @@
+#+BEGIN_SRC sh
+  GIT_COMMIT_SHA=`git rev-parse --verify HEAD` GIT_COMMIT_SHA_SHORT=`git rev-parse --short HEAD` hugo -v
+  aws s3 sync --acl "public-read" --sse "AES256" public/ "s3://tangentspace-hugo" --exclude 'post'
+  aws cloudfront create-invalidation --distribution-id DIST_ID --paths /index.html / "/page/*" "/*"
+#+END_SRC

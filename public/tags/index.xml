@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on The Tangent Space</title>
+    <title>Tags on Tangent Space</title>
     <link>https://tangentspacepodcast.com/tags/</link>
-    <description>Recent content in Tags on The Tangent Space</description>
+    <description>Recent content in Tags on Tangent Space</description>
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>tangentspace@protonmail.com (Brandon Anderson and John Kehayias)</managingEditor>
     <webMaster>tangentspace@protonmail.com (Brandon Anderson and John Kehayias)</webMaster>
-    <lastBuildDate>Fri, 26 May 2017 15:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 05 Jun 2017 14:00:00 -0400</lastBuildDate>
     
 	<atom:link href="https://tangentspacepodcast.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Announcement</title>
       <link>https://tangentspacepodcast.com/tags/announcement/</link>
-      <pubDate>Fri, 26 May 2017 15:00:00 -0400</pubDate>
+      <pubDate>Mon, 05 Jun 2017 14:00:00 -0400</pubDate>
       <author>tangentspace@protonmail.com (Brandon Anderson and John Kehayias)</author>
       <guid>https://tangentspacepodcast.com/tags/announcement/</guid>
       <description></description>

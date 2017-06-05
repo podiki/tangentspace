@@ -1,16 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Announcement on The Tangent Space</title>
+    <title>Announcement on Tangent Space</title>
     <link>https://tangentspacepodcast.com/tags/announcement/</link>
-    <description>Recent content in Announcement on The Tangent Space</description>
+    <description>Recent content in Announcement on Tangent Space</description>
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>tangentspace@protonmail.com (Brandon Anderson and John Kehayias)</managingEditor>
     <webMaster>tangentspace@protonmail.com (Brandon Anderson and John Kehayias)</webMaster>
-    <lastBuildDate>Fri, 26 May 2017 15:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 05 Jun 2017 14:00:00 -0400</lastBuildDate>
     
 	<atom:link href="https://tangentspacepodcast.com/tags/announcement/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Now on iTunes and Stitcher</title>
+      <link>https://tangentspacepodcast.com/post/2017-06-03-itunes_stitcher/</link>
+      <pubDate>Mon, 05 Jun 2017 14:00:00 -0400</pubDate>
+      <author>tangentspace@protonmail.com (Brandon Anderson and John Kehayias)</author>
+      <guid>https://tangentspacepodcast.com/post/2017-06-03-itunes_stitcher/</guid>
+      <description>&lt;div style=&#34;text-align:center&#34;&gt;
+&lt;a href=&#34;https://itunes.apple.com/us/podcast/the-tangent-space-podcast/id1241787382&#34;&gt;&lt;img style=&#34;display: inline&#34; width=44% src=&#34;https://tangentspacepodcast.com/img/Get_it_on_iTunes_Badge_US_1114.svg&#34;&gt;&lt;/a&gt;&lt;a href=&#34;http://www.stitcher.com/s?fid=140357&amp;refid=stpr&#34;&gt;&lt;img style=&#34;display: inline&#34; width=55% src=&#34;http://cloudfront.assets.stitcher.com/promo.assets/stitcher-logo-transparent.png&#34;&gt;&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Thanks everyone for listening and the support so far! We are working on the second episode, and it should be up before long. Some extras from the cutting room floor of &lt;a href=&#34;https://tangentspacepodcast.com/post/2017-05-26-episode_01_prometheus/&#34;&gt;Episode 1&lt;/a&gt; are on their way, too. In the meantime, why not subscribe on &lt;a href=&#34;https://itunes.apple.com/us/podcast/the-tangent-space-podcast/id1241787382&#34;&gt;&lt;strong&gt;iTunes&lt;/strong&gt;&lt;/a&gt; or &lt;a href=&#34;http://www.stitcher.com/s?fid=140357&amp;amp;refid=stpr&#34;&gt;&lt;strong&gt;Sticher&lt;/strong&gt;&lt;/a&gt;?&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Welcome!</title>
