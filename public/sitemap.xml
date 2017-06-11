@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://tangentspacepodcast.com/post/2017-06-11-episode_02_covenant/</loc>
+    <lastmod>2017-06-11T15:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://tangentspacepodcast.com/post/2017-06-03-itunes_stitcher/</loc>
     <lastmod>2017-06-05T14:00:00-04:00</lastmod>
   </url>
@@ -34,13 +39,13 @@
   
   <url>
     <loc>https://tangentspacepodcast.com/tags/episode/</loc>
-    <lastmod>2017-05-26T16:00:00-04:00</lastmod>
+    <lastmod>2017-06-11T15:00:00-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://tangentspacepodcast.com/tags/movie/</loc>
-    <lastmod>2017-05-26T16:00:00-04:00</lastmod>
+    <lastmod>2017-06-11T15:00:00-07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -51,13 +56,13 @@
   
   <url>
     <loc>https://tangentspacepodcast.com/post/</loc>
-    <lastmod>2017-06-05T14:00:00-04:00</lastmod>
+    <lastmod>2017-06-11T15:00:00-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://tangentspacepodcast.com/tags/sci-fi/</loc>
-    <lastmod>2017-05-26T16:00:00-04:00</lastmod>
+    <lastmod>2017-06-11T15:00:00-07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -69,7 +74,7 @@
   
   <url>
     <loc>https://tangentspacepodcast.com/</loc>
-    <lastmod>2017-06-05T14:00:00-04:00</lastmod>
+    <lastmod>2017-06-11T15:00:00-07:00</lastmod>
     <priority>0</priority>
   </url>
   
