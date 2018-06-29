@@ -22,6 +22,6 @@ You can listen directly below (or even better, subscribe on your favorite platfo
 - [Lyrebird](https://lyrebird.ai/) replaces Brandon
 - Outro music [by Alex Kehayias](https://soundcloud.com/hisdarkmaterials)
 
-Find us wherever you download podcasts. Not on your favorite player? [Email us!](mailto:tangentspacepodcast@protonmail.com) Intro music, as always, by Brandon Anderson, and cover image courtesy of Tanja Petrusevska.
+Find us wherever you download podcasts. Not on your favorite player? [Email us!](mailto:tangentspace@protonmail.com) Intro music, as always, by Brandon Anderson, and cover image courtesy of Tanja Petrusevska.
 
 (Noticed that our embedded player changed? More on that in an upcoming post.)
