@@ -6,6 +6,7 @@ metaDataFormat = "yaml"
 pygmentsUseClasses = true
 pygmentCodeFences = true
 disqusShortname = "tangentspace"
+enableGitInfo = true
 #googleAnalytics = "XXX"
 
 [Params]
