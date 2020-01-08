@@ -30,6 +30,11 @@ enableGitInfo = true
 #  src = "img/hexagon.jpg"
 #  desc = "Hexagon"
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
 [Author]
   name = "Brandon Anderson and John Kehayias"
   email = "tangentspace@protonmail.com"
