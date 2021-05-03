@@ -6,7 +6,7 @@ metaDataFormat = "yaml"
 pygmentsUseClasses = true
 pygmentCodeFences = true
 disqusShortname = "tangentspace"
-enableGitInfo = true
+enableGitInfo = false
 #googleAnalytics = "XXX"
 
 [Params]
@@ -49,7 +49,7 @@ enableGitInfo = true
   #snapchat = "username"
   #instagram = "username"
   #youtube = "user/username" # or channel/channelname
-  soundcloud = "tangentspace"
+  #soundcloud = "tangentspace"
   #spotify = "username"
   #bandcamp = "username"
   #itchio = "username"
